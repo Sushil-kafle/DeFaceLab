@@ -1,0 +1,19 @@
+{
+    "assets": [
+        {
+            "assetId": null,
+            "base64": null,
+            "duration": null,
+            "exif": null,
+            "fileName": null,
+            "filesize": null,
+            "height": 810,
+            "mimeType": "image/png",
+            "rotation": null,
+            "type": "image",
+            "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fclient-7f4bcf9e-b1dc-4cc3-9469-7bd052409338/ImagePicker/c5ecd6e2-19c7-453e-a97e-3a50e0ad982b.png",
+            "width": 1080
+        }
+    ],
+    "canceled": false
+}

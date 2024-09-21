@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "DefaceLab",
+    "slug": "DefaceLab",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logowhite",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#030023"
+    },
+    "plugins": [
+      "expo-image-picker"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sanjish.DefaceLab"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#030023"
+      },
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ],
+      "package": "com.sanjish.DefaceLab"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "04178441-d270-48df-9704-ca1f67faac8c"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/04178441-d270-48df-9704-ca1f67faac8c"
+    }
+  }
+}
